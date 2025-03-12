@@ -1,0 +1,5 @@
+Das Programm bzw. VB6 friert ein, wenn man das Formular maximiert und RefreshEx aufruft. 
+Dies passiert aber nur: 
+- bei einer Auflösung von 3200x2048 oder höher
+- falls keine Spalten existieren
+
